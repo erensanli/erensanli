@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- DÜZELTİLMİŞ: SAF MAVİ & AÇIK BUZ MAVİSİ BAŞLIK -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1d4ed8,100:38bdf8&height=180&section=header&text=EREN SANLI&fontSize=46&fontColor=ffffff&fontAlignY=48" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1d4ed8,100:38bdf8&height=180&section=header&text=ERENSANLI&fontSize=46&fontColor=ffffff&fontAlignY=48" width="100%" />
 
   <!-- HAREKETLİ KAR YAĞIŞI AYIRACI -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" />
