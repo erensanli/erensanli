@@ -12,9 +12,9 @@
 
   <!-- SOSYAL MEDYA / BAĞLANTILAR -->
   <p align="center">
-    <a href="https://github.com/KULLANICI_ADINIZ"><img src="https://img.shields.io/badge/GitHub-0d1b2a?style=flat&logo=github&logoColor=38bdf8" /></a>
-    <a href="https://linkedin.com/in/KULLANICI_ADINIZ"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=flat&logo=linkedin&logoColor=38bdf8" /></a>
-    <a href="https://x.com/KULLANICI_ADINIZ"><img src="https://img.shields.io/badge/X-0d1b2a?style=flat&logo=x&logoColor=38bdf8" /></a>
+    <a href="https://github.com/erensanli"><img src="https://img.shields.io/badge/GitHub-0d1b2a?style=flat&logo=github&logoColor=38bdf8" /></a>
+    <a href="https://linkedin.com/in/erensanli"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=flat&logo=linkedin&logoColor=38bdf8" /></a>
+    <a href="https://x.com/erensanli"><img src="https://img.shields.io/badge/X-0d1b2a?style=flat&logo=x&logoColor=38bdf8" /></a>
     <a href="mailto:eposta@domain.com"><img src="https://img.shields.io/badge/Email-0d1b2a?style=flat&logo=gmail&logoColor=38bdf8" /></a>
   </p>
 
@@ -49,7 +49,7 @@
   <br/><br/>
 
   <!-- STREAK STATS -->
-  <a href="https://github.com/KULLANICI_ADINIZ">
+  <a href="https://github.com/erensanli">
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADINIZ&theme=dark&background=0d1b2a&border=0d1b2a&stroke=38bdf8&ring=60a5fa&fire=38bdf8&currStreakLabel=60a5fa" />
   </a>
 
