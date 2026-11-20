@@ -41,9 +41,9 @@
 <div align="center">
 
   <!-- GITHUB STATS & EN ÇOK KULLANILAN DİLLER (Mavi & Açık Mavi Palet) -->
-  <a href="https://github.com/KULLANICI_ADINIZ">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=38bdf8&text_color=e0f2fe&icon_color=60a5fa" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&hide_border=true&bg_color=0d1b2a&title_color=38bdf8&text_color=e0f2fe" />
+  <a href="https://github.com/erensanli">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=erensanli&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=38bdf8&text_color=e0f2fe&icon_color=60a5fa" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erensanli&layout=compact&hide_border=true&bg_color=0d1b2a&title_color=38bdf8&text_color=e0f2fe" />
   </a>
 
   <br/><br/>
