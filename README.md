@@ -1,128 +1,62 @@
 <div align="center">
 
-  <!-- ==================== 3D CHROME GOTHIC LOGO ==================== -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="./kayzer_logo.png" alt="KAYZER" width="500" />
-  </a>
+  <!-- DÜZELTİLMİŞ: SAF MAVİ & AÇIK BUZ MAVİSİ BAŞLIK -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1d4ed8,100:38bdf8&height=180&section=header&text=KULLANICI_ADINIZ&fontSize=46&fontColor=ffffff&fontAlignY=48" width="100%" />
 
-  <!-- Subtitle -->
-  <p align="center" style="letter-spacing: 6px; font-weight: 800; color: #cbd5e1; margin-top: 6px; font-family: monospace;">
-    ANTI-CHEAT &amp; KERNEL SECURITY ARCHITECTURE
-  </p>
+  <!-- HAREKETLİ KAR YAĞIŞI AYIRACI -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24px" />
 
-  <!-- Metallic Monochrome Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/FOSHEPTIC_AC-CORE_DEVELOPER-0e131b?style=for-the-badge&logo=shield&logoColor=ffffff" alt="Fosheptic AC Developer"/>
-    <img src="https://img.shields.io/badge/ACCESS-RING--0-0e131b?style=for-the-badge&logoColor=ffffff" alt="Ring 0"/>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VIEWS&color=0e131b&style=for-the-badge" alt="Views"/>
+    <b>Full-Stack Developer</b> • Systems & Web
   </p>
 
-  <!-- Divider -->
+  <!-- SOSYAL MEDYA / BAĞLANTILAR -->
   <p align="center">
-    <code>━━━━━━━━━━━━━━━━━━━━━━ ❖ ━━━━━━━━━━━━━━━━━━━━━━</code>
+    <a href="https://github.com/KULLANICI_ADINIZ"><img src="https://img.shields.io/badge/GitHub-0d1b2a?style=flat&logo=github&logoColor=38bdf8" /></a>
+    <a href="https://linkedin.com/in/KULLANICI_ADINIZ"><img src="https://img.shields.io/badge/LinkedIn-0d1b2a?style=flat&logo=linkedin&logoColor=38bdf8" /></a>
+    <a href="https://x.com/KULLANICI_ADINIZ"><img src="https://img.shields.io/badge/X-0d1b2a?style=flat&logo=x&logoColor=38bdf8" /></a>
+    <a href="mailto:eposta@domain.com"><img src="https://img.shields.io/badge/Email-0d1b2a?style=flat&logo=gmail&logoColor=38bdf8" /></a>
   </p>
 
 </div>
 
-### ▎ `[01]` // KERNEL.TELEMETRY
+<!-- KAR EFEKTİ ÇİZGİSİ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="18px" />
+
+### ❄️ Stack & Tooling
 
 <div align="center">
-  <img src="./terminal.svg" alt="Fosheptic Kernel Intercept" width="800" />
-</div>
-
-<br/>
-
-<p align="center">
-  <code>━━━━━━━━━━━━━━━━━━━━━━ ❖ ━━━━━━━━━━━━━━━━━━━━━━</code>
-</p>
-
-### ▎ `[02]` // LIVE.PRESENCE
-
-<div align="center">
-
-  <!-- Discord & Spotify Live Presence (ID: 565937208192925736) -->
-  <a href="https://discord.com/users/565937208192925736" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/565937208192925736?theme=dark&bg=06080c&borderRadius=8px&showSong=true" alt="Discord &amp; Spotify Presence" width="400" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,go,docker,postgres,git,linux&theme=dark" />
   </a>
-
 </div>
 
 <br/>
 
-<p align="center">
-  <code>━━━━━━━━━━━━━━━━━━━━━━ ❖ ━━━━━━━━━━━━━━━━━━━━━━</code>
-</p>
+<!-- KAR EFEKTİ ÇİZGİSİ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="18px" />
 
-### ▎ `[03]` // TECH.ARSENAL
-
-<div align="center">
-
-  <!-- LANGUAGES (Metallic Monochrome) -->
-  <p><code>// LANGUAGES</code></p>
-  <p>
-    <img src="https://img.shields.io/badge/C%2B%2B-06080c?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" alt="C++"/>
-    <img src="https://img.shields.io/badge/C-06080c?style=for-the-badge&logo=c&logoColor=ffffff" alt="C"/>
-    <img src="https://img.shields.io/badge/RUST-06080c?style=for-the-badge&logo=rust&logoColor=ffffff" alt="Rust"/>
-    <img src="https://img.shields.io/badge/TYPESCRIPT-06080c?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/PYTHON-06080c?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"/>
-    <img src="https://img.shields.io/badge/GO-06080c?style=for-the-badge&logo=go&logoColor=ffffff" alt="Go"/>
-    <img src="https://img.shields.io/badge/BASH-06080c?style=for-the-badge&logo=gnubash&logoColor=ffffff" alt="Bash"/>
-    <img src="https://img.shields.io/badge/LUA-06080c?style=for-the-badge&logo=lua&logoColor=ffffff" alt="Lua"/>
-  </p>
-
-  <!-- SYSTEMS · RUNTIME · LOW-LEVEL -->
-  <p><code>// RUNTIME &amp; KERNEL FRAMEWORKS</code></p>
-  <p>
-    <img src="https://img.shields.io/badge/NODE.JS-06080c?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/DISCORD.JS-06080c?style=for-the-badge&logo=discord&logoColor=ffffff" alt="Discord.js"/>
-    <img src="https://img.shields.io/badge/FASTAPI-06080c?style=for-the-badge&logo=fastapi&logoColor=ffffff" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/EXPRESS-06080c?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express"/>
-    <img src="https://img.shields.io/badge/ZOD-06080c?style=for-the-badge&logo=zod&logoColor=ffffff" alt="Zod"/>
-  </p>
-
-  <!-- INFRASTRUCTURE · STORAGE & TOOLING -->
-  <p><code>// INFRASTRUCTURE &amp; SECURITY TOOLING</code></p>
-  <p>
-    <img src="https://img.shields.io/badge/LINUX-06080c?style=for-the-badge&logo=linux&logoColor=ffffff" alt="Linux"/>
-    <img src="https://img.shields.io/badge/DOCKER-06080c?style=for-the-badge&logo=docker&logoColor=ffffff" alt="Docker"/>
-    <img src="https://img.shields.io/badge/REDIS-06080c?style=for-the-badge&logo=redis&logoColor=ffffff" alt="Redis"/>
-    <img src="https://img.shields.io/badge/POSTGRESQL-06080c?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/GIT-06080c?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git"/>
-    <img src="https://img.shields.io/badge/GH_ACTIONS-06080c?style=for-the-badge&logo=githubactions&logoColor=ffffff" alt="GitHub Actions"/>
-  </p>
-
-</div>
-
-<br/>
-
-<p align="center">
-  <code>━━━━━━━━━━━━━━━━━━━━━━ ❖ ━━━━━━━━━━━━━━━━━━━━━━</code>
-</p>
-
-### ▎ `[04]` // FEATURED.SYSTEM
-
-<!-- Sadece FOSHEPTIC AC -->
-<div align="center">
-  <img src="./featured-ac.svg" alt="Fosheptic AC Flagship" width="800" />
-</div>
-
-<br/>
-
-<p align="center">
-  <code>━━━━━━━━━━━━━━━━━━━━━━ ❖ ━━━━━━━━━━━━━━━━━━━━━━</code>
-</p>
-
-### ▎ `[05]` // GITHUB.TELEMETRY
+### 🌨️ Activity & Metrics
 
 <div align="center">
 
-  <!-- Full Monochrome Black & Silver Telemetry Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&border_color=334155&bg_color=06080c&title_color=ffffff&text_color=94a3b8&icon_color=cbd5e1" height="160" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=false&border_color=334155&bg_color=06080c&title_color=ffffff&text_color=94a3b8" height="160" alt="Top Languages" />
+  <!-- GITHUB STATS & EN ÇOK KULLANILAN DİLLER (Mavi & Açık Mavi Palet) -->
+  <a href="https://github.com/KULLANICI_ADINIZ">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&hide_border=true&bg_color=0d1b2a&title_color=38bdf8&text_color=e0f2fe&icon_color=60a5fa" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINIZ&layout=compact&hide_border=true&bg_color=0d1b2a&title_color=38bdf8&text_color=e0f2fe" />
+  </a>
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=false&border_color=334155&background=06080c&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=94a3b8&dates=94a3b8" height="160" alt="GitHub Streak" />
+  <!-- STREAK STATS -->
+  <a href="https://github.com/KULLANICI_ADINIZ">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADINIZ&theme=dark&background=0d1b2a&border=0d1b2a&stroke=38bdf8&ring=60a5fa&fire=38bdf8&currStreakLabel=60a5fa" />
+  </a>
 
 </div>
+<div align="center"> <!-- Discord & Spotify Live Presence (ID: 565937208192925736) --> 
+  
+  <a href="https://discord.com/users/565937208192925736" target="_blank"> <img src="https://lanyard.cnrad.dev/api/565937208192925736?theme=dark&bg=06080c&borderRadius=8px&showSong=true" alt="Discord &amp; Spotify Presence" width="400" /> </a>
+<!-- DÜZELTİLMİŞ: AÇIK MAVİ & KOYU MAVİ KAPANIŞ DALGASI -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1d4ed8,100:0d1b2a&height=90&section=footer" width="100%" />
+
